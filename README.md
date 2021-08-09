@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello folks 👋 
+
+I am Daniel, a software engineer with over ten years of professional experience. I am most passionate about frontend development with Angular & React. I love working with AWS and have a weakness for splendid UI/UX. Besides working full-time, I am building two side hustles which will be #buildinpublic soon. In my spare time, I am flying planes for fun ✈️
+
 
 <!--
 **danielreiser/danielreiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
