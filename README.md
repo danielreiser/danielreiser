@@ -14,6 +14,7 @@ I am Daniel, a software engineer with over ten years of professional experience.
 
 ## Latest articles
 - [You Don’t Need To Integrate Google Maps or Mapbox in Your Apps 🗺️📍](https://betterprogramming.pub/you-dont-need-to-integrate-google-maps-or-mapbox-in-your-apps-cd54e87f86a4)
+- [Improve Your UX in Under 10 Minutes💖](https://javascript.plainenglish.io/improve-your-ux-in-under-10-minutes-f5c38359a294)
 
 <br/>
 
