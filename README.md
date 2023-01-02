@@ -4,11 +4,11 @@ I am Daniel, a software engineer with over ten years of professional experience.
 
 
 ## Expertise
-<img align="left" alt="angular" src="https://img.shields.io/badge/angular%20-%23CD182E.svg?&style=for-the-badge&logo=angular&logoColor=%23FFFFF" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="next" src="https://img.shields.io/badge/NextJs%20-%23232F3E?logo=next.js&logoColor=white&style=for-the-badge" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%23232F3E.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-
+<img align="left" alt="angular" src="https://img.shields.io/badge/angular%20-%23232F3E.svg?&style=for-the-badge&logo=angular&logoColor=%23FFFFF" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%23232F3E.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
 <br/><br/>
 
