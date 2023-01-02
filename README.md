@@ -1,6 +1,6 @@
 # Hello folks 👋 
 
-I am Daniel, a software engineer with over ten years of professional experience. I am most passionate about frontend development with Angular & React. I love working with AWS and have a weakness for splendid UI/UX. In my spare time, I am flying planes for fun ✈️
+I am Daniel, a software engineer with over ten years of professional experience. I am most passionate about frontend development with React & Next.js. I love working with AWS and have a weakness for splendid UI/UX. In my spare time, I am flying planes for fun ✈️
 
 
 ## Expertise
